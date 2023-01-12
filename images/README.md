@@ -1,0 +1,1 @@
+The image data basically adopts 160x160 resolution.
